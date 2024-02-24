@@ -1,0 +1,14 @@
+@use "../components/" as *;
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    @include flex();
+    font-family: "Barlow", sans-serif;
+    background-color: $bgColor;
+    background-image: $bgImage;
+}
