@@ -3,7 +3,7 @@
 # Picture In Picture Api
 
 ![Picture In Picture Api Preview](screenshot.png)
-You can check it out [here](https://d-vokic.github.io/Quotations-Generator-App/).
+You can check it out [here](https://d-vokic.github.io/Picture-in-picture-App/).
 
 ## Author
 
@@ -13,18 +13,6 @@ You can check it out [here](https://d-vokic.github.io/Quotations-Generator-App/)
 * GitHub: [@D-vokic](https://github.com/D-vokic)
 
 This application enables users to initiate Picture-in-Picture mode using their web browser. The application promotes a simple and intuitive user experience for leveraging Picture-in-Picture functionality within a web browser.
-
-## Usage Instructions
-1. Visit the Picture In Picture Api App website.
-2. Open the Application: Open the web application in a compatible web browser.
-3. Select Media Stream: Click on the designated button labeled "START". This action prompts the browser to ask for permission to capture your screen or a specific application window.
-4. Initiate Picture-in-Picture Mode: Once you've selected the desired media stream, click on the button labeled "Start Picture-in-Picture Mode". This action activates Picture-in-Picture mode, displaying the selected media stream in a small floating window.
-5. Interact with Picture-in-Picture Window: You can move, resize, or close the Picture-in-Picture window as needed. It will remain visible even if you switch tabs or applications.
-6. End Picture-in-Picture Mode: To end Picture-in-Picture mode, simply close the Picture-in-Picture window. This action returns the application to its default state.
-7. Repeat Process: If you wish to start Picture-in-Picture mode again or select a different media stream, you can repeat the process by clicking the corresponding buttons.
-8. Handle Errors: If you encounter any errors during the process, such as inability to access the media stream, check your browser permissions and ensure that you've granted necessary access.
-
-Following these instructions, you can effectively utilize the Picture-in-Picture functionality provided by the application.
 
 ## Additional Details
 1. Compatibility: The application utilizes modern web APIs and features, so it works best on up-to-date web browsers that support the necessary APIs for capturing media streams and enabling Picture-in-Picture mode. It's advisable to use the latest versions of popular web browsers like Google Chrome, Mozilla Firefox, or Microsoft Edge for the best experience.
