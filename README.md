@@ -2,6 +2,8 @@
 
 # Picture In Picture Api
 
+## Intuitive user experience for leveraging Picture-in-Picture functionality
+
 ![Picture In Picture Api Preview](screenshot.png)
 You can check it out [here](https://d-vokic.github.io/Picture-in-picture-App/).
 
